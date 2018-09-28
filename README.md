@@ -1,12 +1,12 @@
 # MacOS
 
-### Wakeup and sleep check
+## Wakeup and sleep check
 pmset -g log|grep -e " Sleep  " -e " Wake  "
 
-### Homebrew
+## Homebrew
 Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system.
 
-### Drain Battery Problem
+## Drain Battery Problem
 The problem is the macOS continues to check for updates (including email, software, news, etc.) while your MacBook Pro is asleep. This means it's very quick to get up and running, but it also means your battery goes down.
 
 To fix it, you can tell you MacBook Pro to disconnect from the Internet while it's a sleep.
