@@ -35,4 +35,6 @@ Note: You can also force your Mac not to connect to the Internet when it's aslee
 
 Also note: The results from pmset -g will vary depending on if you MacBook Pro is connected to power or not when you run the command. It will reflect the current tcpkeepalive setting, depending on its current power situation.
 
+https://apple.stackexchange.com/questions/253776/macbook-pro-13-with-retina-display-consumes-10-battery-overnight-with-the-lid-c
+
 
