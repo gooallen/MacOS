@@ -38,6 +38,10 @@ Also note: The results from pmset -g will vary depending on if you MacBook Pro i
 https://apple.stackexchange.com/questions/253776/macbook-pro-13-with-retina-display-consumes-10-battery-overnight-with-the-lid-c
 
 
+
+
+
+
 ## Aptana Studio
 ### Terminal issue
 ```
