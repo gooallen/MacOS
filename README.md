@@ -39,7 +39,16 @@ https://apple.stackexchange.com/questions/253776/macbook-pro-13-with-retina-disp
 
 
 
+## Change PATH environment on mac
 
+>> open -e .bash_profile
+
+
+export M2_HOME=/Applications/Projects/Systems/apache-maven-3.5.3
+export PATH=$PATH:$M2_HOME/bin
+
+
+>> source .bash_profile // reload command
 
 
 ## Aptana Studio
@@ -47,5 +56,8 @@ https://apple.stackexchange.com/questions/253776/macbook-pro-13-with-retina-disp
 ```
 chmod 755 /Applications/AptanaStudio.app/Contents/Eclipse/plugins/com.aptana.terminal_3.0.0.201802081530/os/macosx/redtty
 ```
+
+
+
 
 
