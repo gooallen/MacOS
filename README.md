@@ -39,7 +39,7 @@ https://apple.stackexchange.com/questions/253776/macbook-pro-13-with-retina-disp
 
 
 
-## Change PATH environment on mac
+## Change PATH environment on Mac
 
 ```
 >> open -e .bash_profile
