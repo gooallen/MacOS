@@ -59,6 +59,6 @@ chmod 755 /Applications/AptanaStudio.app/Contents/Eclipse/plugins/com.aptana.ter
 ```
 
 
-
-
+## Eclipse
+General - Keys - Content Assist 
 
